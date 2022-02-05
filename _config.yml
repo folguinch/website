@@ -15,6 +15,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔭 # the emoji used as the favicon
+
 url: https://folguinch.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -144,14 +145,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 blog_name: Stories # your blog must have a name for it to show up in the nav bar
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: More details on my projects
-=======
-blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
->>>>>>> b717284 (Web first version)
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://www.astr.nthu.edu.tw/'>National Tsing Hua University</a>. folguin@phys.nthu.edu.tw
+subtitle: <a href='#'>Kyoto University</a>. f.olguin@yukawa.kyoto-u.ac.jp
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Institute of Astronomy</p>
-    <p>No. 101, Section 2, Kuang-Fu Road</p>
-    <p>Hsinchu, Taiwan 30013</p>
+  address: >
+    <p>Yukawa Institute for Theoretical Physics</p>
+    <p>Kitashirakawa Oiwakecho, Sakyo-ku</p>
+    <p>Kyoto 606-8502, Japan</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

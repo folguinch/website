@@ -69,6 +69,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+acm_id: # your dl.acm.org/profile/id
+blogger_url: # your blogger URL
+bluesky_url: # your bluesky URL
+dblp_url: # your DBLP profile url
+discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+flickr_id: # your flickr id
 github_username: folguinch
 gitlab_username: # your GitLab user name
 x_username: # your X handle
@@ -95,7 +102,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-8250-6827
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -137,9 +144,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 blog_name: Stories # your blog must have a name for it to show up in the nav bar
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: More details on my projects
+=======
+blog_name: # your blog must have a name for it to show up in the nav bar
+blog_description: a simple whitespace theme for academics
+>>>>>>> b717284 (Web first version)
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Science projects I participate in as well as fun things.
+description: Science projects as well as fun things.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [research, fun]
 horizontal: false
 ---

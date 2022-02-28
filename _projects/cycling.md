@@ -3,6 +3,7 @@ layout: page
 title: Cycling
 description: My bicycles and adventure trips.
 img: assets/img/cycling_kom.jpg
+#img: assets/img/
 importance: 1
 category: fun
 ---

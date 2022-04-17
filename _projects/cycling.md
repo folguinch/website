@@ -2,7 +2,7 @@
 layout: page
 title: Cycling
 description: My bicycles and adventure trips.
-#img: assets/img/
+img: assets/img/cycling_kom.jpg
 importance: 1
 category: fun
 ---
@@ -80,12 +80,13 @@ category: fun
 
 ### For the road
 
+{% include figure.html path="assets/img/merida_scultura_7000E.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 Merida Scultura 7000-E
 
 Specs:
 
 - Carbon frame
-- Shimano Ultegra Di2 RT800 groupset
+- Shimano Ultegra Di2 RT8000 groupset
 - Shimano Ultegra hydraulic disc brakes
 - 52/36 chainset
 

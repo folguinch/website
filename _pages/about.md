@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National Tsing Hua University</a>. folguin@phys.nthu.edu.tw
+subtitle: <a href='http://www.astr.nthu.edu.tw/'>National Tsing Hua University</a>. folguin@phys.nthu.edu.tw
 
 profile:
   align: right

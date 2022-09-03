@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Kyoto University</a>. f.olguin@yukawa.kyoto-u.ac.jp
+subtitle: <a href='https://www.yukawa.kyoto-u.ac.jp/en-GB/'>Kyoto University</a>. f.olguin@yukawa.kyoto-u.ac.jp
 
 profile:
   align: right

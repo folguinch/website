@@ -7,6 +7,7 @@ subtitle: <a href='http://www.astr.nthu.edu.tw/'>National Tsing Hua University</
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Institute of Astronomy</p>
     <p>No. 101, Section 2, Kuang-Fu Road</p>

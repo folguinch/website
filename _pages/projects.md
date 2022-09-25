@@ -4,6 +4,7 @@ title: projects
 permalink: /projects/
 description: Science projects as well as fun things.
 nav: true
+nav_order: 2
 display_categories: [research, fun]
 horizontal: false
 ---

@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-years_first: [2021, 2020, 2015]
-years_cols: [2021, 2019, 2017, 2015, 2014]
+years_first: [2022, 2021, 2020, 2015]
+years_cols: [2022, 2021, 2019, 2017, 2015, 2014]
 nav: true
 ---
 <!-- _pages/publications.md -->

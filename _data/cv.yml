@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Fernando Olguin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9 September 1986
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Leeds
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        #- Description 1.
+        #- Description 2.
+        - title:  <a href="http://etheses.whiterose.ac.uk/17246/">The circumstellar matter distribution of massive young stellar objects</a>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Massive young stellar objects may be resolved at 70 micron in Herschel Hi-GAL observations depending on their luminosity and distance.
+            - Detailed multi-wavelength radiative transfer modelling of the high-mass YSO AFGL 2591.
+            #- Link: http://etheses.whiterose.ac.uk/17246/
+    - title: MSc
+      institution: Universidad de Chile
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - title: Physical properties of dense cores using sub-mm observations
+          contents:
+            - Radiative transfer modelling of APEX/LABOCA observations of 17 high-mass clumps.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral researcher
+      institution: Institute of Astronomy, National Tsing Hua University
+      year: 2017 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Data reduction and analysis of ALMA observations of high-mass star forming regions.
+          #     - Description 2.
+          #     - title: Description 3.
+          #       contents:
+          #         - Sub-description 1.
+          #         - Sub-description 2.
+          # - title: Visiting Professor
+          #   institution: California Institute of Technology, Pasadena, California, US
+          #   year: 1933
+          #   description:
+          #     - Description 1.
+          #     - Description 2.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://zenodo.org/record/4302846">GoContinuum</a>
+      year: 2020 - now
+      description: A line-free continuum identification tool.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+      #- title: Honors and Awards
+      #  type: time_table
+      #  contents:
+      #    - year: 1921
+      #      items: 
+      #        - Nobel Prize in Physics 
+      #        - Matteucci Medal
+      #    - year: 2029
+      #      items: 
+      #        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Star formation
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - High-mass star formation
+        - Disk kinematics
+    - title: Radiative transfer modelling
+      #items:
+      #  - Description 1.
+      #  - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> cycling, photography.

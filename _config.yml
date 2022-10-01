@@ -107,9 +107,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # your blog must have a name for it to show up in the nav bar
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: random stories
+blog_name: #Stories # your blog must have a name for it to show up in the nav bar
+blog_nav_title: #blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: More details on my projects
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -123,9 +123,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: tumblr
+#    rss_url: https://not-that-fernando.tumblr.com/rss
 
 # -----------------------------------------------------------------------------
 # Collections

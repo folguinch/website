@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - folguinch
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - folguinch/GoContinuum
+  - folguinch/line_little_helper

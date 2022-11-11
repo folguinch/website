@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One year to go
-date: 2022-10-01
+date: 2022-11-11
 description: Carretera Austral trip introduction
 comments: true
 tags: cycling trips carretera-austral

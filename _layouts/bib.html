@@ -116,31 +116,6 @@
             {%- endif -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-          {%- endif -%}
-          {%- assign coauthor_url = nil -%}
-          {%- if site.data.coauthors[author_last_name] -%}
-            {%- for coauthor in site.data.coauthors[author_last_name] -%}
-              {%- if coauthor.firstname contains author.first -%}
-                {%- assign coauthor_url = coauthor.url -%}
-                {%- break -%}
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endif -%}
-
-          </div>
-
-          <!-- Journal/Book title and date -->
-          {% assign proceedings = "inproceedings, incollection" | split: ','%}
-          {% if entry.type == "article" -%}
-            {% if entry.journal == "\apj" -%}
-                {%- capture entrytype -%}<em>ApJ</em>{%- endcapture -%}
-            {%- elsif entry.journal == "\mnras" -%}
-                {%- capture entrytype -%}<em>MNRAS</em>{%- endcapture -%}
-            {%- elsif entry.journal == "\aap" -%}
-                {%- capture entrytype -%}<em>A&A</em>{%- endcapture -%}
-            {%- endif -%}
-          {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}

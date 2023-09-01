@@ -7,4 +7,7 @@ importance: 1
 category: research
 ---
 
-Coming soon.
+## G336
+
+{% include x3d.html file="assets/x3d/interactive_figure_with_models.x3d" name="g336" %}
+

@@ -9,5 +9,5 @@ category: research
 
 ## G336
 
-{% include x3d.html file="assets/x3d/interactive_figure_with_models.x3d" name="g336" %}
+{% include x3d.html file="assets/x3d/interactive_figure_final.x3d" name="g336" %}
 

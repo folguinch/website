@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://www.astr.nthu.edu.tw/'>National Tsing Hua University</a>. folguin@phys.nthu.edu.tw
 

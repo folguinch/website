@@ -5,15 +5,7 @@ layout: default
         <div class="post">
 
           <header class="post-header">
-            {% if page.logo %}
-              <figure>
-                <img
-                    src="{{ page.logo }}"
-                    width=200p
-                    height="auto"
-                />
-              </figure>
-            {% endif %}
+            {% include figure.html path="assets/img/dihca_logo.png" class="img-fluid rounded z-depth-1" zoomable=false %}
             <h1 class="post-title">{{ page.title }}</h1>
             <p class="post-description">{{ page.description }}</p>
           </header>

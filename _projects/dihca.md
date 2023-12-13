@@ -3,12 +3,12 @@ layout: page
 title: DIHCA survey
 description: A close-up view into the formation of high-mass stars with ALMA.
 img: assets/img/dihca_logo.png
+#logo: /assets/img/dihca_logo.png
 importance: 1
 category: research
 years_dihca: [2023, 2022, 2021]
 years_other: [2023]
 ---
-
 ## Highlights
 
 ### Spiral accretion in G336.01-0.82

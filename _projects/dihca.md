@@ -9,7 +9,6 @@ category: research
 years_dihca: [2024, 2023, 2022, 2021]
 years_other: [2023]
 ---
-
 ## Highlights
 
 ### Spiral accretion in G336.01-0.82

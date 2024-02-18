@@ -81,7 +81,7 @@ category: fun
 
 ### For the road
 
-{% include figure.html path="assets/img/merida_scultura_7000E.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/merida_scultura_7000E.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 Merida Scultura 7000-E
 
 Specs:
@@ -93,7 +93,7 @@ Specs:
 
 ### For touring
 
-{% include figure.html path="assets/img/ridgeback.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/ridgeback.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 Rigdgeback World Panorama 2015.
 
 Specs:

@@ -9,7 +9,7 @@ categories: travel
 thumbnail: assets/img/carretera_austral_001.jpg
 ---
 
-{% include figure.html path="assets/img/carretera_austral_001.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_001.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Loaded bike ready for the adventure.
 </div>
@@ -31,7 +31,7 @@ The bags ended up being quite even in weight on each side, so I felt very stable
 
 ## The first hundred kms
 
-{% include figure.html path="assets/img/carretera_austral_002.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_002.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     The small village of Lenca.
 </div>
@@ -52,7 +52,7 @@ The road was dotted with mini markets, where I was able to refill my bottles and
 A couple of freshly cooked seafood empanadas in La Arena where enough for lunch.
 Since the ferry was coming, I had them during the crossing, enjoying the views of the sea and the fresh air.
 
-{% include figure.html path="assets/img/carretera_austral_003.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_003.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Ferry arriving to La Arena.
 </div>

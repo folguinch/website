@@ -9,7 +9,7 @@ tags: cycling trips carretera-austral
 categories: travel
 ---
 
-{% include figure.html path="assets/img/carretera_austral_004.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_004.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Ferry crossing to Leptepu.
 </div>
@@ -20,7 +20,7 @@ Some of them coming from longer trips covering other countries in South America,
 In this road everybody is doing its own thing, you may be lucky and stick with a group but plans/goals are different for each cyclist.
 So this part of the trip is good to share ideas and experiences.
 
-{% include figure.html path="assets/img/carretera_austral_005.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_005.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Sea farms.
 </div>
@@ -52,7 +52,7 @@ This plus being alone with occasional rain in a tent which I haven't tested in r
 Although there is a park ranger house at the next camp site, the situation was the same: no ranger and a closed camp site.
 So I made the decision to push forward to Santa Barbara.
 
-{% include figure.html path="assets/img/carretera_austral_006.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_006.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     The coast of Santa Barbara.
 </div>
@@ -68,7 +68,7 @@ Since it was cold, I decided to stay at an hospedaje (something between hostel a
 
 ## Not quite high season
 
-{% include figure.html path="assets/img/carretera_austral_007.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_007.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Chaiten and beyond with menacing clouds.
 </div>

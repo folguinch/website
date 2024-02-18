@@ -20,7 +20,7 @@ The goal now is to improve it and reduce weight.
 
 ## Bicycle upgrades
 
-{% include figure.html path="assets/img/bike_racks.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/bike_racks.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 In preparation for this trip I have decided to keep the gearing and do some maintenance.
 To carry things I want to have different options and decide later which combination of equipment I will use.

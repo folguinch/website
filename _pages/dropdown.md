@@ -10,5 +10,5 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
-published: false
+#published: false
 ---

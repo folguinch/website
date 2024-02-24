@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Carretera Austral - The road to Chaiten
-#date: 2023-12-23
+date: 2024-02-24
 description: Taking my time in Chaiten
-thumbnail: assets/img/carretera_austral_001.jpg
+thumbnail: assets/img/carretera_austral_004.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel

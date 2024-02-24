@@ -13,7 +13,7 @@ The destination is Chile to ride through the Carretera Austral from Puerto Montt
 I have decided to document this trip including its preparation (route, equipment, resources), updates on the road and a final round-up.
 This first post is to introduce my preparation so far, so it's basically focused on equipment.
 
-During the last 5 years I have been focused on road cycling, participating in a few <a href="{% link _projects/cycling.md %}">events</a>.
+During the last 5 years I have been focused on road cycling, participating in a few [events]({% link _projects/cycling.md %}).
 So most of my investment has been on equipment that may not be suitable for touring cycling.
 However, I still have the bicycle and equipment that I used in my [last touring trip](https://www.flickr.com/photos/faoch/albums/72157666638728105) in 2016.
 The goal now is to improve it and reduce weight.

@@ -10,6 +10,7 @@ thumbnail: assets/img/carretera_austral_001.jpg
 ---
 
 {% include figure.liquid path="assets/img/carretera_austral_001.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Loaded bike ready for the adventure.
 </div>
@@ -32,6 +33,7 @@ The bags ended up being quite even in weight on each side, so I felt very stable
 ## The first hundred kms
 
 {% include figure.liquid path="assets/img/carretera_austral_002.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     The small village of Lenca.
 </div>
@@ -53,6 +55,7 @@ A couple of freshly cooked seafood empanadas in La Arena where enough for lunch.
 Since the ferry was coming, I had them during the crossing, enjoying the views of the sea and the fresh air.
 
 {% include figure.liquid path="assets/img/carretera_austral_003.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Ferry arriving to La Arena.
 </div>
@@ -65,7 +68,7 @@ This was mostly because I needed to get use to my position on the bike, being le
 Luckily, I arrived at a good time in Hornopiren, when the stores were still open.
 Since it was the start of the high season, hostels where relatively empty, so even though I stayed in a shared room I slept alone.
 
-After the lessons learned this day I ended up more confident, but this was going to get tested immediately on the next day. 
+After the lessons learned this day I ended up more confident, but this was going to get tested immediately on the next day.
 
 #### Maps:
 

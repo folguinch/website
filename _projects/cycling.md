@@ -11,6 +11,7 @@ category: fun
 ## Cycling challenges
 
 {% assign mydata=site.data.challenges%}
+
 <table class="mytable" >
   <thead>
   {% for col in mydata[0] %}
@@ -59,7 +60,6 @@ category: fun
   </tbody>
 </table>
 
-
 ## Cycling trips
 
 <div class="container">
@@ -75,7 +75,6 @@ category: fun
     </div>
   </div>
 </div>
-
 
 ## The machines
 
@@ -101,4 +100,3 @@ Specs:
 - Reynolds 725 chrome-moly steel frame
 - Shimano Deore XT (rear), Sora (front), Sora ST shifters
 - 48/36/26 chainset
-

@@ -55,11 +55,10 @@ My camping equipment include:
 - **Tent**: [Robens Starlight 2](https://www.robens.de/en-gb/shop-1/outdoor-tents/starlight-2)
 - **Sleeping bag**: [Sea to Summit Spark 2](https://seatosummit.com/products/spark-ultralight-sleeping-bag-series) with the [Sea to Summit Reactor Liner](https://seatosummit.com/products/thermolite-reactor-liner)
 - **Sleeping mat**: [Sea to Summit Ether Light XT Insulated](https://seatosummit.com/products/ether-light-xt-insulated-sleeping-pad)
-- **Stove**: [SOTO Amicus](https://sotooutdoors.com/product/amicus-stove-with-igniter/) which includes a 1 lt aluminium pot.  
+- **Stove**: [SOTO Amicus](https://sotooutdoors.com/product/amicus-stove-with-igniter/) which includes a 1 lt aluminium pot.
 
 ## What's next
 
 Between now and my trip I have to make a few decissions in terms of gear.
 I want to try my camping equipment at some point to make improvements well ahead of time.
 I will continue researching and informing any updates in the next few months.
-

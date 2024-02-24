@@ -3,31 +3,33 @@ layout: post
 title: Carretera Austral - The valley of rain
 #date: 2023-12-23
 description: Taking my time in Chaiten
-thumbnail: assets/img/carretera_austral_001.jpg
+thumbnail: assets/img/carretera_austral_010.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel
 ---
 
-{% include figure.liquid path="assets/img/carretera_austral_004.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_008.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
-    Ferry crossing to Leptepu.
+    Water from the Yelcho Glacier.
 </div>
 
-The day started once again with rain. After getting out of Chaiten, three dogs
-were following me and barking, but none had enough stamina to keep following me.
+The day started once again with rain. Straight out of Chaiten three dogs
+were following me and barking, but none had enough stamina to keep up with me.
 After this scare, the road was quite quiet, with not many cars or trucks. So
 far, they have been well behaved and passed me respecting the 1.5m of distance.
-Many locals told me to be careful but maybe because the proper high season
-hasn't started yet, drivers were more careful. What would turn out to be a 
+Many locals told me to be careful, but drivers were more careful maybe because
+the proper high season hadn't started yet. What would turn out to be a
 common thing along this trip is that drivers on the other direction waved to
 say hi. Even people on motorcycles (many of them Brazilian tourists) were also
 saying hi.
 
 The first stop of the day was at the Ranita de Darwin trail in the Amarillo
 sector of the Pumalin NP. Nobody was here, only some boot marks on the dusty
-road indicated the presence of someone somewhere. With nobody in sight, I 
-quickly did the trail. The trail itself is a path through the forest. Seen
+road indicated the presence of someone somewhere. With nobody in sight, I
+quickly did the trail. The trail itself is a path through the forest sometimes
+muddy but with wooden planks to cross some of them. Seen
 a Ranita de Darwin is very difficult as they are very small, however I saw
 woodpeckers and other birds could be heard.
 
@@ -55,7 +57,7 @@ So I went to the other one, because the cold was setting in (but was still
 relatively early). The hostel wasn't well kept, understandably because the owner
 may have only time for the store in the first floor. After showering and having
 a soup, I went to my room to rest. Here I noticed that the room was not the
-best, with  a hole in the wall (which I covered with tape) and holes in the roof
+best, with a hole in the wall (which I covered with tape) and holes in the roof
 were some bird poop has accumulating.
 
 So I decided to give the other place a go. Fortunately, the owners were back, so
@@ -63,6 +65,12 @@ I moved there. This one was more comfortable, and I spent a good time talking to
 the owners, who shared stories about other travelers and how was living through
 the pandemic here. They also gave some recommendations about good camping sites
 to stay further south.
+
+{% include figure.liquid path="assets/img/carretera_austral_009.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Araucaria (monkey puzzle tree) at La Junta square.
+</div>
 
 The next morning was raining more heavily and colder, but the road was very flat
 and it took me little time to arrive at La Junta.
@@ -86,8 +94,6 @@ On the day of my arrival...
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10002580630" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 <br/><br/>
-
-
 
 #### More pictures:
 

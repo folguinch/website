@@ -17,7 +17,7 @@
       description:
         #- Description 1.
         #- Description 2.
-        - title:  <a href="http://etheses.whiterose.ac.uk/17246/">The circumstellar matter distribution of massive young stellar objects</a>
+        - title: <a href="http://etheses.whiterose.ac.uk/17246/">The circumstellar matter distribution of massive young stellar objects</a>
           contents:
             - Massive young stellar objects may be resolved at 70 micron in Herschel Hi-GAL observations depending on their luminosity and distance.
             - Detailed multi-wavelength radiative transfer modelling of the high-mass YSO AFGL 2591.
@@ -61,18 +61,18 @@
       #  type: time_table
       #  contents:
       #    - year: 1921
-      #      items: 
-      #        - Nobel Prize in Physics 
+      #      items:
+      #        - Nobel Prize in Physics
       #        - Matteucci Medal
       #    - year: 2029
-      #      items: 
+      #      items:
       #        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Star formation
-      items: 
+      items:
         - High-mass star formation
         - Disk kinematics
     - title: Radiative transfer modelling

@@ -10,6 +10,7 @@ categories: travel
 ---
 
 {% include figure.liquid path="assets/img/carretera_austral_004.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Ferry crossing to Leptepu.
 </div>
@@ -21,6 +22,7 @@ In this road everybody is doing its own thing, you may be lucky and stick with a
 So this part of the trip is good to share ideas and experiences.
 
 {% include figure.liquid path="assets/img/carretera_austral_005.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Sea farms.
 </div>
@@ -53,6 +55,7 @@ Although there is a park ranger house at the next camp site, the situation was t
 So I made the decision to push forward to Santa Barbara.
 
 {% include figure.liquid path="assets/img/carretera_austral_006.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     The coast of Santa Barbara.
 </div>
@@ -69,6 +72,7 @@ Since it was cold, I decided to stay at an hospedaje (something between hostel a
 ## Not quite high season
 
 {% include figure.liquid path="assets/img/carretera_austral_007.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <div class="caption">
     Chaiten and beyond with menacing clouds.
 </div>

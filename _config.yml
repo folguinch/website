@@ -222,6 +222,9 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - _site
+  - .git
+  - _site/.git
 
 # Plug-ins
 plugins:
@@ -230,7 +233,7 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
+  #- jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -334,18 +337,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
-# -----------------------------------------------------------------------------
-# Jekyll Link Attributes
-# -----------------------------------------------------------------------------
-
-# These are the defaults
-external_links:
-  enabled: true
-  rel: external nofollow noopener
-  target: _blank
-  exclude:
-
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

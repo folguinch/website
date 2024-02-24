@@ -60,7 +60,6 @@ category: fun
   </tbody>
 </table>
 
-
 ## Cycling trips
 
 <div class="container">

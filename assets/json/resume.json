@@ -55,20 +55,12 @@
     {
       "name": "Astrophysics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Star formation",
-        "High-mass star formation",
-        "Disk kinematics",
-        "Radiative transfer modelling"
-      ]
+      "keywords": ["Star formation", "High-mass star formation", "Disk kinematics", "Radiative transfer modelling"]
     },
     {
       "name": "Others",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Cycling",
-        "Photography"
-      ]
+      "keywords": ["Cycling", "Photography"]
     }
   ],
   "projects": [

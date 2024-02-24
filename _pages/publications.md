@@ -20,6 +20,7 @@ nav_order: 2
 <h3> First author </h3>
 
 {%- for y in page.years_first %}
+
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
@@ -27,6 +28,7 @@ nav_order: 2
 <h3> Collaborations </h3>
 
 {%- for y in page.years_cols %}
+
   <h2 class="year">{{y}}</h2>
   {% bibliography -f collaborations -q @*[year={{y}}]* %}
 {% endfor %}

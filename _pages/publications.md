@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: List of publications
-years_first: [2022, 2021, 2020, 2015]
-years_cols: [2023, 2022, 2021, 2019, 2017, 2015, 2014]
+years_first: [2024, 2023, 2022, 2021, 2020, 2015]
+years_cols: [2024, 2023, 2022, 2021, 2019, 2017, 2015, 2014]
 nav: true
 nav_order: 2
 ---

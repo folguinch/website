@@ -6,7 +6,7 @@ img: assets/img/dihca_logo.png
 #logo: /assets/img/dihca_logo.png
 importance: 1
 category: research
-years_dihca: [2023, 2022, 2021]
+years_dihca: [2024, 2023, 2022, 2021]
 years_other: [2023]
 ---
 

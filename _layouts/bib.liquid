@@ -137,6 +137,8 @@
         {% capture entrytype %}<em>MNRAS</em>{% endcapture %}
       {% elsif entry.journal == '\aap' %}
         {% capture entrytype %}<em>A&A</em>{% endcapture %}
+      {% elsif entry.journal == '\apjl' %}
+        {% capture entrytype %}<em>ApJL</em>{% endcapture %}
       {% else %}
         {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
       {%- endif -%}

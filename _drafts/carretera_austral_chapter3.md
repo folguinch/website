@@ -2,17 +2,17 @@
 layout: post
 title: Carretera Austral - The valley of rain
 #date: 2023-12-23
-description: Taking my time in Chaiten
+description: Days of rain and cold
 thumbnail: assets/img/carretera_austral_010.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel
 ---
 
-{% include figure.liquid path="assets/img/carretera_austral_008.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_029.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Water from the Yelcho Glacier.
+    Hanging bridge over Yelcho river.
 </div>
 
 The day started once again with rain. Straight out of Chaiten three dogs
@@ -41,6 +41,12 @@ the road is the Yelcho. So far the road hasn't been difficult but once you reach
 the lake it starts to climb. The lake cannot be seen much once you pass the
 hanging bridge after Puerto Cardenas because of tall trees, the few lookouts
 are not very good as the electricity cables block the view.
+
+{% include figure.liquid path="assets/img/carretera_austral_008.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Water from the Yelcho Glacier on the cuesta Moraga.
+</div>
 
 The first big climb is the "cuesta" Moraga. This climb is not difficult, but
 closer to the peak patches of snow could be seen on the side of the road. The
@@ -79,11 +85,31 @@ and it took me little time to arrive at La Junta.
 
 La Junta is a bit smaller than Chaiten, but the dogs were tamer. At the time
 of my arrival it was getting sunny with scattered clouds and windy. After a well
-deserved lunch I found my accommodation. There was no point on rushing since the
+deserved lunch I found accommodation. There was no point on rushing since the
 next national park I wanted to visit would be closed for a few days before I
 could get there. So I stayed in a good place for 2 nights.
 
-On the day of my arrival...
+{% include figure.liquid path="assets/img/carretera_austral_010.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    La Junta from lookout.
+</div>
+
+After putting my clothes and cycling shoes to dry and taking a good shower, I
+walked to a lookout in the hill next to town for a panoramic view of the town.
+With passing clouds beams of light illuminated the green fields in the farms
+around town and the snowed mountains at the distance. I spent probably a good
+30 minutes there enjoying the view and taking pictures.
+Food in town was not easy to find with only a couple of restaurants and stores
+open. Nevertheless, I enjoyed the local salmon, puyes (small fish which are
+locally produced and sold at high prices to international hotels) and nalca
+(giant rhubarb) as dessert.
+
+The good weather didn't last. The day after I was thinking of going to the
+Rosselot lake and visit the confluence of the Palena and Rosselot rivers,
+but the rain started early and didn't stop until the end of the day. Even
+going out to get food without getting wet was difficult. So I just rested
+that day and sorted my things.
 
 #### Maps:
 

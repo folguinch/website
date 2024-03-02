@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carretera Austral - The valley of rain
-#date: 2023-12-23
+date: 2024-03-02
 description: Days of rain and cold
 thumbnail: assets/img/carretera_austral_010.jpg
 giscus_comments: true

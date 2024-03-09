@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Carretera Austral - The long wait
-#date: 2023-12-23
+date: 2024-03-09
 description: Feeling stuck
-thumbnail: assets/img/carretera_austral_010.jpg
+thumbnail: assets/img/carretera_austral_012.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel

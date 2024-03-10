@@ -3,7 +3,7 @@ layout: post
 title: Carretera Austral - Fully pack day
 #date: 2024-03-16
 description: A hiking and cycling day
-thumbnail: assets/img/carretera_austral_010.jpg
+thumbnail: assets/img/carretera_austral_014.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel
@@ -12,13 +12,10 @@ images:
   slider: true
 ---
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/carretera_austral_011.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/carretera_austral_030.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+{% include figure.liquid path="assets/img/carretera_austral_014.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Rosselot lake and confluence of Palena and Rosselot rivers.
+    Laguna Tempanos and the Ventisquero Colgante, Queulat National Park.
 </div>
 
 The day started as planned.
@@ -29,17 +26,17 @@ There workers were arriving and preparing to continue with the access road maint
 
 ## The Ventisquero Colgante
 
-{% include figure.liquid path="assets/img/carretera_austral_012.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
-<div class="caption">
-    Puyuhuapi from Los Canelos Trail.
-</div>
-
 The entrance to the NP was smooth.
 To access the park reservations were necessary but payment had to be made at the entrance.
 I was amongst the first group of people to enter the park, together with a couple of Chilean friends and a couple of foreign tourist.
 After a quick debrief about which trails were open, I parked my bike and prepared to walk.
 First to the lagoon (Laguna Tempanos) were I got a clear view of the glacier, but as was taking my last pictures a cloud started to form in front of the glacier.
+
+{% include figure.liquid path="assets/img/carretera_austral_033.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Ventisquero Colgante covered by clouds.
+</div>
 
 I calculated that I had to leave by noon if I wanted to arrive at a good time to my next destination or in case I had any accident or longer than predicted stop.
 So if I wanted to reach the lookout closer to the glacier I would had to run a bit.
@@ -58,18 +55,67 @@ I arrived to the parking at noon, had something to eat, refilled the water bottl
 
 ## Gravel and amazing roads
 
-{% include figure.liquid path="assets/img/carretera_austral_031.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_015.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Canelo tree.
+    The top of the *cuesta* Queulat.
 </div>
 
+The paved road was soon replaced by gravel as the road started to travel along the Queulat river.
+The section before the *cuesta* Queulat had some paved sections, part of unfinished works done by a company that ran out of business during  the pandemic, though some people said the company wasn't the best for the job even before.
+Either way, these sections provide a bit of calm from the jumpy road.
+With a wide river head joining the sea at one side, many people say that toninas can be seen in that section, but I wasn't lucky or maybe I was too late.
+As the road was approaching the *cuesta*, I was thinking what would I do I had a mechanical or wasn't able to continue.
+The road seemed at that point very solitary and quiet, so my mind was going to dark places even in a bright day.
 
-{% include figure.liquid path="assets/img/carretera_austral_032.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+The *cuesta* Queluat is a series of hairpins that climb some 500 m over 5 km in the toughest part, and some people say the most difficult part of the Carretera.
+As soon the first hairpin arrived I got into some problems.
+There you can find a path to a waterfall, so I stopped to the side of the road but couldn't find a place to leave the bike (my bike doesn't have a kickstand).
+Even keeping the bight up straight was difficult, more so getting back on the saddle, because the road was dry and covered by loose dust with little grip.
+It turned out most hairpins were like this, and in some of the lower flatter sections the dusty roads felt like riding in sand.
+So much so, that I had to stop in a section because I couldn't keep up straight and a driver in small truck coming behind me offered to carry me, but the climb was just starting so I just said thank but I was going to continue trying.
+Knowing that people are kind in this part of of the country helped to overcome those dark thoughts I had in the middle of nowhere.
+
+{% include figure.liquid path="assets/img/carretera_austral_034.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Sunset at Puyuhuapi fjord.
+    Puntiagudo from the road next the Cisnes river.
 </div>
+
+After a few hairpins I got a grasp of how to face them, basically going wide and not getting in my lowest gear.
+By the top, they were less dusty.
+I saw a few more cars going up and down, but this time not being completely on the high season was in my favour because even with these few cars I got to cross their dust clouds.
+Closer to the top the views got better, with snowy peaks on each side and a bright day throughout.
+At the top also, the road was was replaced by brand new tarmac, so the descent to the Cisnes river valley was very smooth.
+
+{% include figure.liquid path="assets/img/carretera_austral_016.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Empty roads and snowy mountains.
+</div>
+
+The ride down to valley had some amazing views, so were the views in the valley.
+Here the road follows the Cisnes river into an open valley with some large farms and surrounded by breathtaking mountains.
+The next town along the road was Villa Amengual.
+Although some people recommend to stay there, it seems that there aren't any camping sites and hostels are not the best.
+A cyclist refuge use to be in the village, but some people reported that it burned down and that the current status is not as good.
+So I considered two other camping sites before the village.
+
+{% include figure.liquid path="assets/img/carretera_austral_017.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Cisnes river, near the camping site.
+</div>
+
+The first one I passed soon after getting into the valley, but I only considered this one as a backup if I was running late.
+The second one was recommended by the owners of the hostel in Villa Santa Lucia.
+I contacted the owners of this camping when I stopped in Puyuhuapi, as I learned that some places were still closed.
+The camping ([Refugio Río Cisnes](https://www.refugioriocisnes.com/)) is a large place next to the Cisnes river.
+I was the only one camping that night, but days before a large group of foreign cyclists had passed by.
+This was one of the best camping sites on the Carretera Austral.
+The camping has a cafe for people traveling by other means, where they offer food.
+Most of the reviews recommend their pizzas, however when I arrived they didn't have the ingredients so they were out buying.
+Nonetheless, their cinnamon buns were amazing and their sandwiches replenished my energy levels after a long day on the saddle.
 
 #### Maps:
 

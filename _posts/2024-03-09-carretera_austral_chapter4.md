@@ -73,6 +73,12 @@ So I decided to move to a camping site closer to the park (the camping site insi
 These campings were just a few kms from Puyuhuapi, so I just took my time defrosting/drying my tent with an incipient sun light.
 Before leaving the town, I enjoyed a last visit to the cafe to have a kuchen and hot coffee.
 
+{% include figure.liquid path="assets/img/carretera_austral_013.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    The road next to the fjord.
+</div>
+
 There were two working camping sites near the park, my first option was slightly after the entrance of the park (further away from Puyuhuapi).
 When I got there, the toilets and showers looked clean, but the sites were not quite ready and you can see that sheep had used them recently for protection.
 So I went to the other option, which was before and further back from the entrance to the park.

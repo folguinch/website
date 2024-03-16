@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carretera Austral - Fully pack day
-#date: 2024-03-16
+date: 2024-03-16
 description: A hiking and cycling day
 thumbnail: assets/img/carretera_austral_014.jpg
 giscus_comments: true

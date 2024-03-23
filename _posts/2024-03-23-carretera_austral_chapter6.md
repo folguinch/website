@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carretera Austral - Time to visit friends
-#date: 2024-03-23
+date: 2024-03-23
 description: A ride and a weekend with friends
 thumbnail: assets/img/carretera_austral_019.jpg
 giscus_comments: true

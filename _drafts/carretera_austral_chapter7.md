@@ -2,8 +2,8 @@
 layout: post
 title: Carretera Austral - The Simpson river valley
 #date: 2024-03-30
-description: A day full of waterfalls and a climb
-thumbnail: assets/img/carretera_austral_019.jpg
+description: A day for waterfalls and a climb
+thumbnail: assets/img/carretera_austral_023.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel
@@ -12,10 +12,10 @@ images:
   slider: true
 ---
 
-{% include figure.liquid path="assets/img/carretera_austral_035.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Walking along Cisnes river.
+    Hidden waterfall.
 </div>
 
 On the last ride with the car with my friend down from his house, we visited a hidden waterfall down the river passing through the properties.
@@ -28,10 +28,10 @@ Since the road was mostly descending towards Aysen, it took me no time to arrive
 
 ## Waterfalls and the Simpson river
 
-{% include figure.liquid path="assets/img/carretera_austral_018.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/carretera_austral_022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 <div class="caption">
-    Lago Las Torres
+    Cascada Velo de la Novia.
 </div>
 
 The road to Coyhaique enters a valley, with steep hills to the left, resulting in a couple of waterfalls along the way, and the Simpson river to the right.
@@ -48,26 +48,19 @@ In between, the Conaf (park rangers) center was closed because, like any museum,
 
 So far the road has been surrounded by trees, without many views of the Simpson river, but as I get close to Coyhaique the forest starts to disappear.
 
-{% include figure.liquid path="assets/img/carretera_austral_019.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
-<div class="caption">
-    Laguna Esponja at Villa Mañihuales
-</div>
-
-
 ## Windy welcome to Coyhaique
-
-{% include figure.liquid path="assets/img/carretera_austral_036.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
-<div class="caption">
-    Cascada del Leon.
-</div>
 
 With the Simpson river on my right, I start to see the climb waiting for me in order to cross to Coyhaique.
 Although not difficult, the climb seemed longer than it really is.
 The views of the valley I just crossed were amazing, however it was difficult to stop for pictures because there wasn't much space to stop and some trucks were going up every now and then.
 Near the top, in Alto Baguales, I tried to find a nice spot but couldn't find any.
 At this point the wind started to appear, and so the wind turbines, making it colder than in the valley below.
+
+{% include figure.liquid path="assets/img/carretera_austral_023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Coyhaique from lookout.
+</div>
 
 After a quick stop at the Marchant lookout for some pictures of Coyhaique, the road descended into town.
 The descent was fast, with the wind pushing sometimes.
@@ -84,17 +77,16 @@ At this point I wasn't sure how the trip was going to end, whether I was going t
 Since it was before Christmas, they told me I was more lucky to find a box, as they stock more bikes.
 It turned out that I didn't come back to Coyhaique, but it was good to know.
 
+{% include figure.liquid path="assets/img/carretera_austral_037.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="caption">
+    Simpson river next to Coyhaique.
+</div>
+
 Since I got food for a few days in Aysen, I didn't need to visit any supermarket.
 So the rest of they I spent it walking around and buying something for dinner and breakfast next day.
 There are a few things that can be visited around Coyhaique, but I didn't want to stay in a relatively large city.
 My plan for the next day was to ride the almost 100 km to Villa Cerro Castillo, banking on the rest days at my friend's house and a good night sleep.
-
-
-{% include figure.liquid path="assets/img/carretera_austral_020.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
-<div class="caption">
-    Coihue forest.
-</div>
 
 #### Maps:
 

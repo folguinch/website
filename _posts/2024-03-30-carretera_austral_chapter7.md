@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carretera Austral - The Simpson river valley
-#date: 2024-03-30
+date: 2024-03-30
 description: A day for waterfalls and a climb
 thumbnail: assets/img/carretera_austral_023.jpg
 giscus_comments: true

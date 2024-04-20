@@ -103,7 +103,7 @@ From this height I was able to see another condor flying over town.
     San Rafael glacier.
 </div>
 
-The Laguna San Rafael trip the day after was very early in the morning.
+The Laguna San Rafael trip the day after was very early in the morning and was organized by [99% Adventure](https://99aventura.cl/).
 We first had to travel by car to the Exploradores river mouth to take a boat down river, into the fjords and then into Laguna San Rafael.
 Laguna San Rafael is a lagoon formed at the feet of the San Rafael glacier, which comes down from the Campos de Hielo Sur ice field.
 We entered the lagoon and got as close as it is allowed to the glacier wall.
@@ -122,6 +122,8 @@ One recommendation I wish I knew before extending my stay in the camping was to 
 One of the tours that wasn't available was walking on the ice of the Exploradores glacier, because of a crack they have discovered.
 So I decided to cycle to the National Park entrance.
 To get there, I followed the same road than the day before, which gets into the Exploradores valley.
+The day started with a close encounter with a martin pescador.
+Cycling through the valley I saw some animals popping out, at first they seemed like dogs as usual, but it turned out to be a bunch of rabbits that immediately started to run away.
 I stopped at the same waterfall than the day before, but this time the view was much better because the light in the morning was coming from the other side.
 Having done this road by car was useful, because I remembered the best spots for pictures.
 Once in the NP, I decided to do the shorter (30 min) walk to one of the viewpoints.

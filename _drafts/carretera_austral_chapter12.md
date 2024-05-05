@@ -3,7 +3,7 @@ layout: post
 title: Carretera Austral - Disconnecting from the world
 date: 2024-05-04
 description: Relaxing and rainy days
-thumbnail: assets/img/carretera_austral_055.jpg
+thumbnail: assets/img/carretera_austral_063.jpg
 giscus_comments: true
 tags: cycling trips carretera-austral
 categories: travel

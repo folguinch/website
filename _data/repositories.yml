@@ -1,6 +1,8 @@
 github_users:
   - folguinch
 
+repo_description_lines_max: 2
+
 github_repos:
   - folguinch/GoContinuum
   - folguinch/line_little_helper

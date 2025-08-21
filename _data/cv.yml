@@ -33,9 +33,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant Professor
+      institution: Yukawa Institute for Theoretical Physics, Kyoto University
+      year: 2024 - present
+      description:
+        - Study of disk kinematics in high-mass star forming regions.
     - title: Postdoctoral researcher
       institution: Institute of Astronomy, National Tsing Hua University
-      year: 2017 - now
+      year: 2017 - 2024
       description:
         - Data reduction and analysis of ALMA observations of high-mass star forming regions.
           #     - Description 2.

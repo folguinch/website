@@ -61,7 +61,7 @@ In the front panniers I carried:
     Rear panniers contents.
 </div>
 
-I stored my clothes inside [Ortlieb Packing cube](https://www.ortlieb.com/en_us/f3905), including toiletries (toothpaste, toothbrush, body wash), and clothes:
+I stored my clothes inside [Ortlieb Packing cubes](https://www.ortlieb.com/en_us/f3905), including toiletries (toothpaste, toothbrush, body wash), and clothes:
 
 - Waterproof jacket and over trousers (Montbell)
 - 1 jersey (Pedaled) and 1 t-shirt
@@ -72,6 +72,7 @@ I stored my clothes inside [Ortlieb Packing cube](https://www.ortlieb.com/en_us/
 - 1 Down jacket (Montbell) and 1 cycling warm jacket (Pedaled)
 - 1 Buff
 - 1 Cap
+- 2 sets of underwear
 - Hiking shoes (in the other pannier) and cycling SPD shoes
 - Flip-flops (in the other pannier)
 

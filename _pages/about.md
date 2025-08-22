@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Yukawa Institute for Theoretical Physics</p>
     <p>Kitashirakawa Oiwakecho, Sakyo-ku</p>
     <p>Kyoto 606-8502, Japan</p>

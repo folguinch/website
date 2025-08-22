@@ -31,9 +31,11 @@ ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
 
 # install jekyll and dependencies
+RUN gem update
 RUN gem install jekyll bundler
 
-RUN bundle install --no-cache
+RUN bundle install
+RUN bundle update
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 

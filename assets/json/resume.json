@@ -3,25 +3,34 @@
     "name": "Fernando Olguin",
     "label": "Astronomer",
     "image": "",
-    "email": "folguin@phys.nthu.edu.tw",
+    "email": "f.olguin@yukawa.kyoto-u.ac.jp",
     "phone": "",
-    "url": "https://folguinch.github.io/al-folio/",
+    "url": "https://folguinch.github.io/",
     "summary": "",
     "location": {
-      "address": "National Tsing Hua University",
-      "postalCode": "300",
-      "city": "Hsinchu",
-      "countryCode": "TW",
-      "region": "Taiwan"
+      "address": "Kyoto University",
+      "postalCode": "606-8502",
+      "city": "Kyoto",
+      "countryCode": "JP",
+      "region": "Japan"
     }
   },
   "work": [
+    {
+      "name": "Yukawa Institute for Theoretical Physics, Kyoto University",
+      "position": "Research Assistant Professor",
+      "url": "",
+      "startDate": "2024/09",
+      "endDate": "now",
+      "summary": "Disk kinematics of high-mass YSOs with ALMA.",
+      "highlights": ""
+    },
     {
       "name": "Institute of Astronomy, National Tsing Hua University",
       "position": "Postdoctoral researcher",
       "url": "",
       "startDate": "2017",
-      "endDate": "now",
+      "endDate": "2024",
       "summary": "Data reduction and analysis of ALMA observations of high-mass star forming regions.",
       "highlights": ""
     }
